@@ -13,12 +13,4 @@ with special focus on PM2.5 (24-hour NESAQ compliance).
 
 ## How to run locally
 1. Install dependencies:
-streamlit
-pandas
-numpy
-plotly
-scikit-learn
-statsmodels
-openpyxl
-fpdf
-prophet
+
